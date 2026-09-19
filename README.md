@@ -28,10 +28,10 @@ I’m building an experimental reinforcement-learning environment around my Unit
 
 Working on a cool project? Feel free to reach out, I'm always open to discussing interesting ideas related to software or 3D printing.
 
-- GitHub: [@vanshS66](https://github.com/your-username)
-- LinkedIn: [Vansh Sehrawat](https://www.linkedin.com/in/your-linkedin-handle/)
-- Email: [vanshsehrawatuni@gmail.com](mailto:you@example.com)
+- GitHub: [@vanshS66](https://github.com/vanshS66)
+- LinkedIn: [Vansh Sehrawat](https://www.linkedin.com/in/vansh66/)
+- Email: [vanshsehrawatuni@gmail.com](mailto:vanshsehrawatuni@gmail.com)
 
 ---
 
-*This profile is a work in progress, just like all of my other projects*
+*This profile is a work in progress, just like all of my other projects :)*
