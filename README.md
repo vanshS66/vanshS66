@@ -16,7 +16,7 @@ I’m building an experimental reinforcement-learning environment around my Unit
 → [View the Racing RL project](https://github.com/vanshS66/racing-rl)
 
 ## Education & Experience
-- Third-year Computer Science double-major student at the University of Toronto
+- Third-year Computer Science student at the University of Toronto
 - Former intern at CASY, where I gained experience building and working with cloud-backed software systems
 
 ## Interests
