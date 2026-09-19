@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Vansh 👋
 
-<!--
-**vanshS66/vanshS66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer interested in building interactive software, game systems, and practical machine-learning projects.
 
-Here are some ideas to get you started:
+## Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Racing RL
+
+I’m building an experimental reinforcement-learning environment around my Unity racing game prototype. The project connects Unity’s vehicle physics to Python training code through a custom gRPC and Protobuf bridge, without relying on an ML-Agents wrapper.
+
+- Training a driving agent with Stable-Baselines3 PPO and Gymnasium
+- Designing observations from road probes, vehicle dynamics, and checkpoint data
+- Building reliable simulation reset, reward, and episode-handling systems
+- Evaluating training runs with TensorBoard and deterministic rollouts
+
+→ [View the Racing RL project](https://github.com/your-username/racing-rl)
+
+## Interests
+
+- Backend development (Cloudflare R2, Supabase, and Google Cloud Platform)
+- Full-stack development
+- Reinforcement learning
+- Unity and C#
+- Python, tooling, and automation
+- 3D design and 3D printing (a hobby outside of software)
+
+## Connect
+
+Working on a cool project? Feel free to reach out, I'm always open to discussing interesting ideas related to software or 3D printing.
+
+- GitHub: [@vanshS66](https://github.com/your-username)
+- LinkedIn: [Vansh Sehrawat](https://www.linkedin.com/in/your-linkedin-handle/)
+- Email: [vanshsehrawatuni@gmail.com](mailto:you@example.com)
+
+---
+
+*This profile is a work in progress, just like all of my other projects*
