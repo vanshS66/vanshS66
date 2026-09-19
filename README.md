@@ -13,7 +13,7 @@ I’m building an experimental reinforcement-learning environment around my Unit
 - Building reliable simulation reset, reward, and episode-handling systems
 - Evaluating training runs with TensorBoard and deterministic rollouts
 
-→ [View the Racing RL project](https://github.com/your-username/racing-rl)
+→ [View the Racing RL project](https://github.com/vanshS66/racing-rl)
 
 ## Interests
 
