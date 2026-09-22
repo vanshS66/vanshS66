@@ -30,7 +30,7 @@ I’m building an experimental reinforcement-learning environment around my Unit
 
 ## Connect
 
-Working on a cool project? Feel free to reach out, I'm always open to discussing interesting ideas related to software or 3D printing.
+Working on a cool project? Feel free to reach out! I'm always open to discussing interesting ideas related to software or 3D printing.
 
 - GitHub: [@vanshS66](https://github.com/vanshS66)
 - LinkedIn: [Vansh Sehrawat](https://www.linkedin.com/in/vansh66/)
