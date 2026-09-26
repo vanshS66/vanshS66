@@ -1,7 +1,7 @@
 # Hi, I'm Vansh 👋
 
 I’m a developer interested in building interactive software, game systems, and practical machine-learning projects.
-
+I also 3D-design and 3D-print parts for older cars. 
 ## Currently working on
 
 ### Racing RL
